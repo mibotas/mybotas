@@ -13,8 +13,8 @@ require_once("videos.php");
 // Set the bot TOKEN
 
 // antigo token
-//$bot_id = "301192259:AAHt-N8x35EGTqiHHNrVoZNwe6jrPwx7ivM";
-$bot_id = "320918042:AAE5IgeCOuzEoRzAeQEZXkWkQ6sTEZ9Ft_Q";
+$bot_id = "301192259:AAHt-N8x35EGTqiHHNrVoZNwe6jrPwx7ivM";
+//$bot_id = "320918042:AAE5IgeCOuzEoRzAeQEZXkWkQ6sTEZ9Ft_Q";
 
 // Instances the class
 
